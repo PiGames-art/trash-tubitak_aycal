@@ -3,19 +3,19 @@
 Valla bildiğiniz çöp işte. Şu anda daha basit. Sensör eğerki bir şey görürse motorları çalıştırıyor. Görmezse veya o *şey* giderse motorlu geri çalıştırıp çöpü kapatıyo.
 
 ## Kullanım
-## Pinler
-### Sensör
+### Pinler
+#### Sensör
 - Sensörün ses dalgası **gönderen** pini -> **9**
 - Sensörün ses dalgası **alan** pini -> **8**
 
-### Motorlar
+#### Motorlar
 - 1. **Motor** -> **5**
 - 2. **Motor** -> **6**
 
-## İndirme ve Derleme
+### İndirme ve Derleme
 ```Bash
-git clone link # Projeyi ve kaynak dosyaları bulunduğunuz dizine indirir
-cd dizin # İndirdiğiniz dizine geçin
+git clone https://github.com/PiGames-art/trash-tubitak_aycal.git # Projeyi ve kaynak dosyaları bulunduğunuz dizine indirir
+cd trash-tubitak_aycal # İndirdiğiniz dizine geçin
 /ardunio/idenin/bulunduğu/dizin/ide.appimage . # Ardunio ide nin yolunu girip oradan projeyi açın
 ```
 - Ve GUI dan derleyin.
