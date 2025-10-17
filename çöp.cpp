@@ -1,4 +1,5 @@
 #include <Servo.h>
+#hahadeneneme
 
 // Servo motoru nesnelerini oluşturuyoz
 Servo servo1;
